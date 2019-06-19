@@ -1,0 +1,28 @@
+body { background-image: url(img/gravel1.jpg); }
+
+span  { color: red;
+		margin-left: 30%;}
+
+.wakwaw {border-top:3px solid red;
+		 box-sizing: border-box;
+		 }
+
+.navbar { height: 55px;
+		  background-color: white;}
+
+.idiot h5 {padding-top: 30px;
+		min-height: 65px;
+		font-weight: bold; }
+
+.simili {background-color: red;
+		width: 100%;
+	  margin-top: 20px;
+	  color: white;}
+
+.sekat { margin-left: 48%;
+		 margin-top: 10px;}
+
+.semvak {width: 100%;}
+
+.bangbang { text-align: center;
+	margin-top: 15px;}
